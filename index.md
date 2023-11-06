@@ -4,3 +4,5 @@
 #### This is the forth line
 ##### This is the fifth line
 ###### This is the sixth line
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

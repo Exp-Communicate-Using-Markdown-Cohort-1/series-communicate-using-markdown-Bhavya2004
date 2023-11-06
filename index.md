@@ -6,3 +6,8 @@
 ###### This is the sixth line
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+const greeting = "Hello, World!";
+console.log(greeting);
+```
